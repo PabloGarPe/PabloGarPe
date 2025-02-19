@@ -17,7 +17,7 @@ Soy una persona entusiasta del aprendizaje, especialmente en programación, desa
 ---
 
 ## 🌟 **Sobre mí**
-- 💻 Disfruto explorando herramientas como Python, Django y FastAPI para desarrollar soluciones prácticas.
+- 💻 Disfruto de los retos y me considero bueno trabajando en grupo y con habilidades de liderazgo.
 - 🎯 Me interesan áreas como la ciencia de datos, la inteligencia artificial y el desarrollo web.
 
 ---
